@@ -1,0 +1,11 @@
+E:\Projects\git\SnmpApp\SnmpTrap.Lib\bin\Debug\SnmpTrap.Lib.dll
+E:\Projects\git\SnmpApp\SnmpTrap.Lib\bin\Debug\SnmpTrap.Lib.pdb
+E:\Projects\git\SnmpApp\SnmpTrap.Lib\obj\Debug\SnmpTrap.Lib.csprojResolveAssemblyReference.cache
+E:\Projects\git\SnmpApp\SnmpTrap.Lib\obj\Debug\SnmpTrap.Lib.dll
+E:\Projects\git\SnmpApp\SnmpTrap.Lib\obj\Debug\SnmpTrap.Lib.pdb
+C:\Users\14224\Downloads\SnmpApp\SnmpApp\SnmpTrap.Lib\bin\Debug\SnmpTrap.Lib.dll
+C:\Users\14224\Downloads\SnmpApp\SnmpApp\SnmpTrap.Lib\bin\Debug\SnmpTrap.Lib.pdb
+C:\Users\14224\Downloads\SnmpApp\SnmpApp\SnmpTrap.Lib\obj\Debug\SnmpTrap.Lib.csproj.AssemblyReference.cache
+C:\Users\14224\Downloads\SnmpApp\SnmpApp\SnmpTrap.Lib\obj\Debug\SnmpTrap.Lib.csproj.CoreCompileInputs.cache
+C:\Users\14224\Downloads\SnmpApp\SnmpApp\SnmpTrap.Lib\obj\Debug\SnmpTrap.Lib.dll
+C:\Users\14224\Downloads\SnmpApp\SnmpApp\SnmpTrap.Lib\obj\Debug\SnmpTrap.Lib.pdb
