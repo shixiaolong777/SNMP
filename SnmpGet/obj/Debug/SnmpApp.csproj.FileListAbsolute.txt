@@ -1,0 +1,9 @@
+E:\Projects\git\SnmpApp\SnmpApp\bin\Debug\SnmpApp.exe.config
+E:\Projects\git\SnmpApp\SnmpApp\bin\Debug\SnmpApp.exe
+E:\Projects\git\SnmpApp\SnmpApp\bin\Debug\SnmpApp.pdb
+E:\Projects\git\SnmpApp\SnmpApp\bin\Debug\SnmpSharpNet.dll
+E:\Projects\git\SnmpApp\SnmpApp\bin\Debug\SnmpSharpNet.pdb
+E:\Projects\git\SnmpApp\SnmpApp\bin\Debug\SnmpSharpNet.xml
+E:\Projects\git\SnmpApp\SnmpApp\obj\Debug\SnmpApp.csprojResolveAssemblyReference.cache
+E:\Projects\git\SnmpApp\SnmpApp\obj\Debug\SnmpApp.exe
+E:\Projects\git\SnmpApp\SnmpApp\obj\Debug\SnmpApp.pdb
